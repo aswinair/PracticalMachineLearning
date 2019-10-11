@@ -1,2 +1,1 @@
-# PracticalMachineLearning
-Practical Machine Learning Coursera
+# Practical-Machine-Learning-Peer-Assessment-1
